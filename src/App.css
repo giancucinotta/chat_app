@@ -25,53 +25,53 @@
 }
 
 .ce-chat-form-container {
-    padding-bottom: 20px !important;
-  }
-  
-  .ce-text-input {
-    border-radius: 6px !important;
-    border: 1px solid #081295 !important;
-  }
-  
-  .ce-primary-button {
-    border-radius: 6px !important;
-    background-color: #081295 !important;
-    position: relative;
-    bottom: 1px;
-  }
-  
-  .ce-danger-button {
-    background-color: white !important;
-    border-radius: 22px !important;
-  }
-  
-  .ce-settings {
-    background-color: rgb(240, 240, 240) !important;
-  }
-  
-  .ce-autocomplete-input {
-    border-radius: 6px !important;
-    border: 1px solid #3b2a50 !important;
-  }
-  
-  .ce-autocomplete-options {
-    border-radius: 6px !important;
-    border: 1px solid #3b2a50 !important;
-    background-color: white !important;
-  }
-  
-  .ce-chat-settings-container {
-    padding-top: 12px !important;
-  }
-  
-  .ce-chat-avatars-row {
-    display: none !important;
-  }
-  
-  /* CUSTOM FEED */
-  
-  .chat-feed {
-    height: 88.3%;
+  padding-bottom: 20px !important;
+}
+
+.ce-text-input {
+  border-radius: 6px !important;
+  border: 1px solid #081295 !important;
+}
+
+.ce-primary-button {
+  border-radius: 6px !important;
+  background-color: #081295 !important;
+  position: relative;
+  bottom: 1px;
+}
+
+.ce-danger-button {
+  background-color: white !important;
+  border-radius: 22px !important;
+}
+
+.ce-settings {
+  background-color: rgb(240, 240, 240) !important;
+}
+
+.ce-autocomplete-input {
+  border-radius: 6px !important;
+  border: 1px solid #3b2a50 !important;
+}
+
+.ce-autocomplete-options {
+  border-radius: 6px !important;
+  border: 1px solid #3b2a50 !important;
+  background-color: white !important;
+}
+
+.ce-chat-settings-container {
+  padding-top: 12px !important;
+}
+
+.ce-chat-avatars-row {
+  display: none !important;
+}
+
+/* CUSTOM FEED */
+
+.chat-feed {
+  height: 91.9%;
     width: 100%;
     overflow: scroll;
     background-color: rgb(240, 240, 240);
