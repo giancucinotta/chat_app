@@ -31,7 +31,7 @@ For the deployed app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24a64ae3-48b8-4ad0-a2bf-b057d2df6744/deploy-status)]()
 
-The Create new user is not yet ready.
+The Create new user feature is not yet ready.
 
 
 ## THANKS FOR YOUR TIME! 
