@@ -20,11 +20,11 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser. (If you want to LogIn, this feature is yet to be finished as you will need to be registered as:
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. (If you want to LogIn, this feature is yet to be finished as you will need to be Logged as:
 
 # User: Zane 
 # Password: 123456789
 
-The LogOut feature is yet not implemented but it could easily be made adding a button that deletes the LocalStorage and redirects the user to the Landing Page.
+The Create new user is not yet ready.
 
 ## THANKS FOR YOUR TIME! 
