@@ -28,7 +28,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. (
 ### OR:
 [Click here!](http://chatapp-gianfranco-cucinotta.netlify.app)
 For the deployed app
-[![Netlify Status](https://api.netlify.com/api/v1/badges/24a64ae3-48b8-4ad0-a2bf-b057d2df6744/deploy-status)](https://app.netlify.com/sites/chatapp-gianfranco-cucinotta/deploys)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24a64ae3-48b8-4ad0-a2bf-b057d2df6744/deploy-status)]()
 
 The Create new user is not yet ready.
 
