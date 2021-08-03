@@ -5,10 +5,15 @@ Inside this project you have a Landing Page with LogIn controlled form, style im
 ## Once logged, you will find a single page chat interface where you can:
 
 -Send messages to your contacts
+
 -Create new chat groups
+
 -Add new participants
+
 -Send pictures
+
 -Visualize read receipts
+
 -Send with Enter key and more! 
 
 -----------------------------------------------------------------------------------------------------
