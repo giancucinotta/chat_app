@@ -27,6 +27,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. (
 
 The Create new user is not yet ready.
 
-<img src="https://github.com/giancucinotta/chat_app/blob/main/src/components/Chat-App-Google-Chrome-2021-08-0.gif"/> 
-
 ## THANKS FOR YOUR TIME! 
