@@ -28,7 +28,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. (If you want to LogIn, this feature is yet to be finished as you will need to be Logged as:
 
 # User: Zane 
-# Password: 123456789
+# Password: (please, ask for it)
 
 ### OR:
 [Click here!](http://chatapp-gianfranco-cucinotta.netlify.app)
