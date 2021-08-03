@@ -25,6 +25,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. (
 # User: Zane 
 # Password: 123456789
 
+### OR:
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24a64ae3-48b8-4ad0-a2bf-b057d2df6744/deploy-status)](https://app.netlify.com/sites/chatapp-gianfranco-cucinotta/deploys)
+
 The Create new user is not yet ready.
+
 
 ## THANKS FOR YOUR TIME! 
